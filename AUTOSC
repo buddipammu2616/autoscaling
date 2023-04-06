@@ -7,4 +7,4 @@ apt install nginx -y
 apt install python-apt -y
 apt install git -y
 apt install stress -y
-git clone 
+git clone https://github.com/buddipammu2616/autoscaling.git /myrepo
